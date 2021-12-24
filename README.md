@@ -10,7 +10,7 @@
 
 ### `Clone the repo`
 
-- `git clone `
+- `git clone https://github.com/harshsinghs1058/react-tailwind-3.0-template`
 
 ### `install packages`
 
