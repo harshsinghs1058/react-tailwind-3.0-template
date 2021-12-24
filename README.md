@@ -3,6 +3,9 @@
 ### `Packages`
 
 - Tailwindcss
+- Postcss
+- autoprefixer
+- react-router-dom
 - axios
 - gh-pages
 
